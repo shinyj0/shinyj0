@@ -44,15 +44,15 @@
 
 #### Experience
 > 2022<Br>
-[CODEIT](https://github.com/sm-CODE-IT) 숙명여자대학교 IT공학전공 학회 코딧 22학번 부회장 (2022.3 ~ 2024. 02 ) <br>
+[CODEIT](https://github.com/sm-CODE-IT) 숙명여자대학교 IT공학전공 학회 코딧 22학번 부회장 (2022.03 ~ 2024.02 ) <br>
 
 > 2023<br>
-[UMC](https://github.com/UMC-SMWU) 5th 서버 파트 멤버 (2023.9 ~ 2024. 02 ) <br>
-[SOLUX](https://github.com/sm-solux) 28th 백엔드 멤버 (2023.03 ~ 2024. 02) <br>
+[UMC](https://github.com/UMC-SMWU) 5th 서버 파트 멤버 (2023.09 ~ 2024.02 ) <br>
+[SOLUX](https://github.com/sm-solux) 28th 백엔드 멤버 (2023.03 ~ 2024.02) <br>
 
 > 2024<Br>
-[COTATO](https://github.com/IT-Cotato) 9th 백엔드 멤버 (2024.3 ~ ) <br>
-
+[COTATO](https://github.com/IT-Cotato) 9th 백엔드 멤버 (2024.03 ~ 2024.08 ) <br>
+[COTATO](https://github.com/IT-Cotato) 10th 백엔드 멤버 (2024.9 ~  ) <br>
 
 
 
