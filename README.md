@@ -36,7 +36,8 @@
 <br>
 
 #### Interest
-- Spring boot 
+- Spring boot
+- AI/ML
 - AWS cloudSearch
 
 <br>
