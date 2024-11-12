@@ -52,8 +52,8 @@
 [SOLUX](https://github.com/sm-solux) 28th 백엔드 멤버 (2023.03 ~ 2024.02) <br>
 
 > 2024<Br>
-[COTATO](https://github.com/IT-Cotato) 9th 백엔드 멤버 (2024.03 ~ 2024.08 ) <br>
-[COTATO](https://github.com/IT-Cotato) 10th 백엔드 멤버 (2024.9 ~  ) <br>
+[COTATO](https://github.com/IT-Cotato) COTATO 연합동아리 9th 백엔드 멤버 (2024.03 ~ 2024.08 ) <br>
+[COTATO](https://github.com/IT-Cotato) COTATO 연합동아리 10th 백엔드 멤버, 부회장 (2024.9 ~  ) <br>
 
 
 
