@@ -44,16 +44,49 @@
 <br>
 
 #### Experience
-> 2022<Br>
-[CODEIT](https://github.com/sm-CODE-IT) 숙명여자대학교 IT공학전공 학회 코딧 22학번 부회장 (2022.03 ~ 2024.02 ) <br>
+> **2022**
+> 
+> 
+> [CODEIT](https://github.com/sm-CODE-IT) 숙명여자대학교 IT공학전공 학회 코딧 22학번 부회장 (2022.3 ~ 2024. 02 )
+> 
+> 이쿠스 대학 연합봉사동아리 운영진(2022.3-2024.02)
+> 
 
-> 2023<br>
-[UMC](https://github.com/UMC-SMWU) 5th 서버 파트 멤버 (2023.09 ~ 2024.02 ) <br>
-[SOLUX](https://github.com/sm-solux) 28th 백엔드 멤버 (2023.03 ~ 2024.02) <br>
+> **2023**
+> 
+> 
+> [UMC](https://github.com/UMC-SMWU) 5th 서버 파트 멤버 (2023.9 ~ 2024. 02 )
+> 
+> [SOLUX](https://github.com/sm-solux) 28th 백엔드 멤버 (2023.03 ~ 2024. 02)
+> 
+> [SOLUX](https://github.com/sm-solux) 날씨 정보 제공  웹사이트 “날씨의 눈송” BE(2023.09-2024.02)
+> 
+> [SOLUX](https://github.com/sm-solux) 대학교 행사 관리 웹사이트 “UHANG” BE(2023.09-2024.02)
+> 
 
-> 2024<Br>
-[COTATO](https://github.com/IT-Cotato) COTATO 연합동아리 9th 백엔드 멤버 (2024.03 ~ 2024.08 ) <br>
-[COTATO](https://github.com/IT-Cotato) COTATO 연합동아리 10th 백엔드 멤버, 부회장 (2024.9 ~  ) <br>
+
+> **2024**
+> 
+> 
+> [COTATO](https://github.com/IT-Cotato) 9th 백엔드 멤버 및 운영지원팀 (2024.03 ~ 2024.08)
+> 
+> [COTATO](https://github.com/IT-Cotato) SYNCSPOT 중간지점 프로젝트  BE (2024.03~2024.12)
+> 
+> [COTATO](https://github.com/IT-Cotato) 10th 백엔드 멤버 및 부회장 (2024.09 ~2025.02 )
+> 
+> SSS LAB  - LLM을 이용한 시각장애인을 위한 주식정보 제공 챗봇 개발 (2024.09-2024.12)
+> 
+> 자기주도프로젝트 - SOOKLOG 감정분석 일기 서비스 개발  BE, FE(2024.09- 2024.12)
+> 
+
+> **2025**
+> 
+> 
+> UCSD QUALCOMM AI PROGRAM 14th (2025.01-2025.02)
+> 
+> (주) 더블유에이아이 가시백연 연구 산학협력(2025.03-2025.06)
+> LINGO 숙명여자대학교 졸업프로젝트(2025.03~)
+>
 
 
 
