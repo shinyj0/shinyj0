@@ -53,7 +53,8 @@
 > 
 
 > **2023**
-> 
+>
+> [CODEIT](https://github.com/sm-CODE-IT) 숙명여자대학교 IT공학전공 학회 코딧 22학번 부회장 (2022.3 ~ 2024. 02 ) 
 > 
 > [UMC](https://github.com/UMC-SMWU) 5th 서버 파트 멤버 (2023.9 ~ 2024. 02 )
 > 
