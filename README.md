@@ -50,7 +50,7 @@
 > 
 > [CODEIT](https://github.com/sm-CODE-IT) Vice President of CODEIT, Sookmyung Women’s Univ. IT Engineering Club (2022.03 ~ 2024.02)
 > 
-> ICUS University Volunteer Club, Executive Member (2022.03 ~ 2024.02)
+> ICCUS University Volunteer Club, Executive Member (2022.03 ~ 2024.02)
 > 
 
 > **2023**
