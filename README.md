@@ -86,15 +86,17 @@
 > 
 > **UCSD Qualcomm AI Program 14th** (2025.01 ~ 2025.02)
 > 
-> WAI Corp. Industry-Academia Collaboration (GasiBaekyeon Research) (2025.03 ~ 2025.06)
+> WAI Corp. Industry-Academia Collaboration (가시백연 Research) (2025.03 ~ 2025.06)
 > 
 > **LINGO** Graduation Project, Sookmyung Women’s Univ. (2025.03 ~ 2025.09)
 > 
 > **USC Summer AI Program** (2025.07 ~ 2025.08)
 >
-> **SSS LAB** - Stock Information Chatbot for the Visually Impaired using LLM (Backend Development) (2025.09 ~)
+> **SSS LAB** - Stock Information Chatbot for the Visually Impaired using LLM (Backend Development) (2025.09 ~2025.11)
 > 
-> **Outstanders Corp.** Industry-Academia Collaboration on Recommender Systems (2025.09 ~)
+> **Outstanders Corp.** Industry-Academia Collaboration on Recommender Systems (2025.09 ~2025.11)
+>
+> **It's Time** -  **ROOME** Backend(2025.09 ~ )
 
 
 
@@ -106,6 +108,14 @@
 - 4th SMUPC Programming Contest – Gold Prize (2024.05.18)<br>
 - 1st SWITCH (SW/AI Startup Competition, Sookmyung Univ.) – Gold Prize (2024.08)<br>
 - UCSD Qualcomm AI Program Hackathon – 2nd Place (2025.02.16)
+
+
+
+---
+
+## 💬 Most Used Languages
+
+[![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=shinyj0&layout=compact&hide=html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
