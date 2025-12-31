@@ -98,7 +98,7 @@
 > **2025**
 > 
 > 
-> **UCSD Qualcomm AI Program 14th** (2025.01 ~ 2025.02)
+> **UCSD Qualcomm AI Program 14th** - Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data <a href="https://arxiv.org/abs/2507.13112">[Paper]</a>(2025.01 ~ 2025.02)
 > 
 > WAI Corp. Industry-Academia Collaboration (White Smoke Researchc (2025.03 ~ 2025.06)
 > 
