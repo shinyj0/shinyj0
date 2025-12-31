@@ -28,14 +28,15 @@
 </div>
 <br>
 <div style="display:flex; flex-direction:row;">
-<h2>⚡Now Studying </h2>
+ 
+## 🧑‍💻 Now Studying
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </div>
 <br>
 <br>
 
-#### Interest
+## 💻 Interest
 - Spring Boot
 - Docker
 - AI/ML
@@ -44,7 +45,7 @@
 <br>
 <br>
 
-#### Experience
+## 🧑‍💻 Experience
 > **2022**
 > 
 > 
@@ -103,11 +104,17 @@
 <br>
 <br>
 
-#### 🏆 Awards 🏆
+## 🏆 Awards 
 - Yonsei Univ. x Sookmyung Univ. AWS ABC Hackathon – Excellence Award (2024.03.10) <br>
 - 4th SMUPC Programming Contest – Gold Prize (2024.05.18)<br>
 - 1st SWITCH (SW/AI Startup Competition, Sookmyung Univ.) – Gold Prize (2024.08)<br>
 - UCSD Qualcomm AI Program Hackathon – 2nd Place (2025.02.16)
+
+<br>
+
+## 🏅 Certifications
+- **SQL Developer (SQLD)** (2025)
+- **Advanced Data Analytics Semi-Professional (ADSP)** (2025) 
 
 
 
@@ -116,7 +123,6 @@
 ## 💬 Most Used Languages
 
 [![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=shinyj0&layout=compact&hide=html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <br>
