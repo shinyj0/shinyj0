@@ -100,7 +100,7 @@
 > 
 > **UCSD Qualcomm AI Program 14th** (2025.01 ~ 2025.02)
 > 
-> WAI Corp. Industry-Academia Collaboration (가시백연 Research) (2025.03 ~ 2025.06)
+> WAI Corp. Industry-Academia Collaboration (White Smoke Researchc (2025.03 ~ 2025.06)
 > 
 > **LINGO** Graduation Project, Sookmyung Women’s Univ. (2025.03 ~ 2025.09)
 > 
