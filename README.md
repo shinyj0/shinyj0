@@ -1,6 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=F1E0E0&text=Welcome%20to%20Yejin's%20GitHub%20&textBg=false&fontSize=60&fontColor=FAFAFA&rotate=0&descAlign=63&descAlignY=69&desc=Hello,%20I'm%20Ye%20Jin%20)
 
- 
+ <h2>About me👇🏻</h2> 
+
+```python
+  yejin = {
+      "name": "YEJIN SHIN",
+      "major": "IT engineering👩‍💻",
+      "Development": ["Back-end🔭","AI"],
+      "Languages": ["Java☕", "Python"],
+      "Backend": ["Spring Boot 🌱"],
+      "DevOps": ["Github Actions♾️", "Docker🐋", "AWS ☁️"],
+      "Tools": ["Slack", "Notion", "Github project", "Jira", "Discord", "Git", "IntelliJ", "VS Code"],
+      "interests": ["Running 🏃‍♀️", "Pilates 🧘‍♀️", "Cooking 🍳"]
+  }
+```
 
 <h2>⚡Skills </h2>
 <h3>Platforms & Languages </h3>
