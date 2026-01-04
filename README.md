@@ -96,7 +96,7 @@
 > 
 > **SSS LAB** - Chatbot for Stock Information for the Visually Impaired using LLM (2024.09 ~ 2024.12)
 > 
-> Self-directed Project - **SOOKLOG** Sentiment Analysis Diary Service (BE & FE) (2024.09 ~ 2024.12)
+
 > 
 
 > **2025**
@@ -104,7 +104,7 @@
 > 
 > **UCSD Qualcomm AI Program 14th** - Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data <a href="https://arxiv.org/abs/2507.13112">[Paper]</a>(2025.01 ~ 2025.02)
 > 
-> WAI Corp. Industry-Academia Collaboration (White Smoke Researchc (2025.03 ~ 2025.06)
+> WAI Corp. Industry-Academia Collaboration (White Smoke Research) (2025.03 ~ 2025.06)
 > 
 > **LINGO** Graduation Project, Sookmyung Women’s Univ. (2025.03 ~ 2025.09)
 > 
