@@ -112,7 +112,7 @@ I strive to grow as a developer who **improves user experience through performan
 >
 > **SYNCSPOT**  
 > - 중간지점 기반 모임 장소 추천 서비스 백엔드 개발 (2024.03 ~ 2024.12)
-> - **Stack**: Spring Boot, JPA, Redis, MySQL, AWS EC2, Docker
+> - **Stack**: Spring Boot, JPA, Redis, MySQL, AWS S3, AWS EC2, Docker
 > 
 > **COTATO**  
 > - 10기 백엔드 파트원 & 부회장 (2024.09 ~ 2025.02)
@@ -133,7 +133,7 @@ I strive to grow as a developer who **improves user experience through performan
 >
 > **LINGO**  
 > - 공증 문서 번역 플랫폼 졸업 프로젝트 (2025.03 ~ 2025.09)
-> - **Stack**: Spring Boot, FastAPI, OCR, LLM, AWS S3, Docker
+> - **Stack**: Spring Boot, FastAPI, CLOVA OCR, LLM,AWS S3, AWS EC2, Docker
 >
 > **USC Summer AI Program**  (2025.07 ~ 2025.08)
 > 데이터 분석, 머신러닝 학습
@@ -150,7 +150,7 @@ I strive to grow as a developer who **improves user experience through performan
 > **IT’s Time – ROOME**  
 > - 인테리어 플랫폼 **ROOME** 백엔드 개발 (2025.09 ~ )
 > - 셀프 인테리어를 계획하는 사람들이 자신의 취향을 발견하고 방 환경에 딱 맞는 원하는 인테리어를 얻기까지를 서포트해주는 웹 플랫폼
-> - **Stack**: Spring Boot, JPA, MySQL, Redis, AWS S3, OpenAI
+> - **Stack**: Spring Boot, JPA, MySQL, Redis,AWS S3, AWS EC2, AWS ElasticCache, Docker, Nginx, OpenAI
 
 
 
