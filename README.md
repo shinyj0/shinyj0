@@ -66,55 +66,83 @@
 > **2022**
 > 
 > 
-> [CODEIT](https://github.com/sm-CODE-IT) Vice President of CODEIT, Sookmyung Women’s Univ. IT Engineering Club (2022.03 ~ 2024.02)
+> **CODEIT** (숙명여자대학교 IT공학과 학회)  
+> - 부회장 (2022.03 ~ 2024.02)  
+> - 동아리 운영 총괄
+> - 타 대학과 연합 해커톤 개최 추진
 > 
-> ICCUS University Volunteer Club, Executive Member (2022.03 ~ 2024.02)
-> 
+>
+> **ICCUS** 대학 연합 봉사 동아리  
+> - 운영진 (2022.03 ~ 2024.02)
+> - 총 87시간 봉사활동
 
 > **2023**
 >
-> [CODEIT](https://github.com/sm-CODE-IT) Vice President (2022.03 ~ 2024.02) 
+>
+> **CODEIT**  
+>  - 부회장 (2022.03 ~ 2024.02)
+>
+> **UMC (University MakeUs Challenge)**  
+> - 5기 서버(node.js) 파트원 (2023.09 ~ 2024.02)
+>
+> **SOLUX** 
+> - 28기 백엔드 파트원 (2023.03 ~ 2024.02)
+>
+> **날씨의 눈송**  
+> - 날씨에 따른 옷차림 추천 서비스 (2023.09 ~ 2024.02)
+> - **Stack**: Spring Boot, JPA, MySQL
 > 
-> [UMC](https://github.com/UMC-SMWU) 5th Server Part Member (2023.09 ~ 2024.02)
-> 
-> [SOLUX](https://github.com/sm-solux) 28th Backend Member (2023.03 ~ 2024.02)
-> 
-> [SOLUX](https://github.com/sm-solux) Weather Information Website **“Snowflakes of Weather”** Backend (2023.09 ~ 2024.02)
-> 
-> [SOLUX](https://github.com/sm-solux) University Event Management Website **“UHANG”** Backend (2023.09 ~ 2024.02)
-> 
+> **UHANG**  
+> - 대학 행사 관리 웹서비스 백엔드 개발 (2023.09 ~ 2024.02)
+> - **Stack**: Spring Boot, JPA, MySQL
 
 
 > **2024**
+>
+>
+> **COTATO**  
+> - 9기 백엔드 파트원 & 운영지원팀 (2024.03 ~ 2024.08)
+>
+> **SYNCSPOT**  
+> - 중간지점 기반 모임 장소 추천 서비스 백엔드 개발 (2024.03 ~ 2024.12)
+> - **Stack**: Spring Boot, JPA, Redis, MySQL, AWS EC2, Docker
 > 
-> 
-> [COTATO](https://github.com/IT-Cotato) 9th Backend Member & Operations Support Team (2024.03 ~ 2024.08)
-> 
-> [COTATO](https://github.com/IT-Cotato) **SYNCSPOT** Midpoint Project Backend (2024.03 ~ 2024.12)
-> 
-> [COTATO](https://github.com/IT-Cotato) 10th Backend Member & Vice President (2024.09 ~ 2025.02)
-> 
-> **SSS LAB** - Chatbot for Stock Information for the Visually Impaired using LLM (2024.09 ~ 2024.12)
-> 
-
+> **COTATO**  
+> - 10기 백엔드 파트원 & 부회장 (2024.09 ~ 2025.02)
+>
+> **SSS LAB**  
+> - LLM 기반 시각장애인용 주식 정보 챗봇 개발 (2024.09 ~ 2024.12)
+>
 > 
 
 > **2025**
 > 
 > 
-> **UCSD Qualcomm AI Program 14th** - Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data <a href="https://arxiv.org/abs/2507.13112">[Paper]</a>(2025.01 ~ 2025.02)
-> 
-> WAI Corp. Industry-Academia Collaboration (White Smoke Research) (2025.03 ~ 2025.06)
-> 
-> **LINGO** Graduation Project, Sookmyung Women’s Univ. (2025.03 ~ 2025.09)
-> 
-> **USC Summer AI Program** (2025.07 ~ 2025.08)
+> **UCSD Qualcomm AI Program 14기**  
+> - 캘리포니아 교통 데이터를 활용한 고속도로 교통량 예측 AI 연구  (2025.01 ~ 2025.02)  
+> - *Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data*  [Paper](https://arxiv.org/abs/2507.13112)
 >
-> **SSS LAB** - Stock Information Chatbot for the Visually Impaired using LLM (Backend Development) (2025.09 ~2025.11)
-> 
-> **Outstanders Corp.** Industry-Academia Collaboration on Recommender Systems (2025.09 ~2025.11)
+> **WAI Corp. 산학협력 (가시백연 구분 연구)**  (2025.03 ~ 2025.06)
 >
-> **It's Time** -  **ROOME** Backend(2025.09 ~ )
+> **LINGO**  
+> - 공증 문서 번역 플랫폼 졸업 프로젝트 (2025.03 ~ 2025.09)
+> - **Stack**: Spring Boot, FastAPI, OCR, LLM, AWS S3, Docker
+>
+> **USC Summer AI Program**  (2025.07 ~ 2025.08)
+> 데이터 분석, 머신러닝 학습
+> 
+> **SSS LAB**  
+> - 시각장애인용 주식 정보 챗봇 백엔드 개발  (2025.09 ~ 2025.11)
+> - **Stack**: Spring Boot, FastAPI, LLM
+>   
+> **Outstanders Corp(가방끈 글로벌) 산학협력**  
+> - 연구실 - 학생 추천 시스템 개발 프로젝트 (2025.09 ~ 2025.11)
+> - R&D 연구실적 기반 랭킹 AI agent 개발
+>
+> **IT’s Time – ROOME**  
+> - 인테리어 플랫폼 **ROOME** 백엔드 개발 (2025.09 ~ )
+> - 셀프 인테리어를 계획하는 사람들이 자신의 취향을 발견하고 방 환경에 딱 맞는 원하는 인테리어를 얻기까지를 서포트해주는 웹 플랫폼
+> - **Stack**: Spring Boot, JPA, MySQL, Redis, AWS S3, OpenAI
 
 
 
