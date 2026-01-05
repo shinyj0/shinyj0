@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=F1E0E0&text=Welcome%20to%20Yejin's%20GitHub%20&textBg=false&fontSize=60&fontColor=FAFAFA&rotate=0&descAlign=63&descAlignY=69&desc=Hello,%20I'm%20Ye%20Jin%20)
 
-<h2>🚀 **Backend & AI-Oriented Developer**</h2>
+<h2>🚀 Backend Developer</h2>
 
 I am interested in **backend development and artificial intelligence**,  
 and I aim to design systems that are **stable, flexible, and maintainable over time**.
