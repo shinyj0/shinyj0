@@ -173,6 +173,8 @@ I strive to grow as a developer who **improves user experience through performan
 <br>
 
 ## 🏆 Awards 
+- Academic Excellence Scholarship - top 3% by GPA(2023)
+- Academic Excellence Scholarship - top 5% by GPA(2024)
 - Yonsei Univ. x Sookmyung Univ. AWS ABC Hackathon – Excellence Award (2024.03.10) <br>
 - 4th SMUPC Programming Contest – Gold Prize (2024.05.18)<br>
 - 1st SWITCH (SW/AI Startup Competition, Sookmyung Univ.) – Gold Prize (2024.08)<br>
