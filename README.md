@@ -150,7 +150,7 @@ I strive to grow as a developer who **improves user experience through performan
 > - **Stack**: Spring Boot, FastAPI, CLOVA OCR, LLM,AWS S3, AWS EC2, Docker
 >
 > **USC Summer AI Program**  (2025.07 ~ 2025.08)
-> 데이터 분석, 머신러닝 학습
+> - 데이터 분석, 머신러닝 학습
 > 
 > **SSS LAB**  
 > - 시각장애인용 주식 정보 챗봇 백엔드 개발  (2025.09 ~ 2025.11)
