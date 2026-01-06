@@ -196,6 +196,7 @@ I strive to grow as a developer who **improves user experience through performan
 - **Stay hydrated** – 물 많이 마시기  
 - **Algorithm practice** – 알고리즘 공부 제대로 하기
 - **10k**
+- 🇪🇸
 
 
 ---
