@@ -104,13 +104,13 @@ I strive to grow as a developer who **improves user experience through performan
 >  - 부회장 (2022.03 ~ 2024.02)
 >
 > **UMC (University MakeUs Challenge)**  
-> - 5기 서버(node.js) 파트원 (2023.09 ~ 2024.02)
+> - 5기 서버(node.js) 파트 (2023.09 ~ 2024.02)
 >
 > **SOLUX** 
-> - 28기 백엔드 파트원 (2023.03 ~ 2024.02)
+> - 28기 백엔드 파트 (2023.03 ~ 2024.02)
 >
 > **날씨의 눈송**  
-> - 날씨에 따른 옷차림 추천 서비스 (2023.09 ~ 2024.02)
+> - 날씨에 따른 옷차림 추천 서비스 (2023.03 ~ 2024.08)
 > - **Stack**: Spring Boot, JPA, MySQL
 > 
 > **UHANG**  
@@ -122,14 +122,14 @@ I strive to grow as a developer who **improves user experience through performan
 >
 >
 > **COTATO**  
-> - 9기 백엔드 파트원 & 운영지원팀 (2024.03 ~ 2024.08)
+> - 9기 백엔드 파트 & 운영지원팀 (2024.03 ~ 2024.08)
 >
 > **SYNCSPOT**  
 > - 중간지점 기반 모임 장소 추천 서비스 백엔드 개발 (2024.03 ~ 2024.12)
 > - **Stack**: Spring Boot, JPA, Redis, MySQL, AWS S3, AWS EC2, Docker
 > 
 > **COTATO**  
-> - 10기 백엔드 파트원 & 부회장 (2024.09 ~ 2025.02)
+> - 10기 백엔드 파트 & 부회장 (2024.09 ~ 2025.02)
 >
 > **SSS LAB**  
 > - LLM과 RAG 기반의 시각장애인을 위한 (2024.09 ~ 2024.12)
