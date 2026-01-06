@@ -12,7 +12,7 @@ I strive to grow as a developer who **improves user experience through performan
 ```python
   yejin = {
       "name": "YEJIN SHIN",
-      "major": "IT engineering👩‍💻",
+      "major": "IT engineering👩‍💻","Big Data Engineering(Double Major)"
       "Development": ["Back-end🔭","AI"],
       "Languages": ["Java☕", "Python"],
       "Backend": ["Spring Boot 🌱"],
