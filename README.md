@@ -119,7 +119,7 @@ I strive to grow as a developer who **improves user experience through performan
 >
 > **SSS LAB**  
 > - LLM과 RAG 기반의 시각장애인을 위한 (2024.09 ~ 2024.12)
-> - FAISS + Mistral + RAG 기번 챗봇 환경 구축
+> - FAISS 벡터 검색과 Mistral LLM을 활용한 RAG 구조 설계 및 구현
 > 
 
 > **2025**
@@ -145,7 +145,8 @@ I strive to grow as a developer who **improves user experience through performan
 > **Outstanders Corp(가방끈 글로벌) 산학협력**  
 > - 연구실 - 학생 추천 시스템 개발 프로젝트 (2025.09 ~ 2025.11)
 > - R&D 연구실적 기반 랭킹 AI agent 개발
-> - FAISS + nomic 임베딩을 활용한 벡터 검색 구조 설계 
+> - FAISS + nomic 임베딩을 활용한 벡터 검색 구조 설계
+> - **Stack**: Python, FAISS, nomic embedding, Vector Search, LLM
 >
 > **IT’s Time – ROOME**  
 > - 인테리어 플랫폼 **ROOME** 백엔드 개발 (2025.09 ~ )
