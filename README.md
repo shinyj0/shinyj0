@@ -18,7 +18,7 @@ I strive to grow as a developer who **improves user experience through performan
       "Backend": ["Spring Boot 🌱"],
       "DevOps": ["Github Actions♾️", "Docker🐋", "AWS ☁️"],
       "Tools": ["Slack", "Notion", "Github project", "Jira", "Discord", "Git", "IntelliJ", "VS Code"],
-      "interests": ["Running 🏃‍♀️", "Pilates 🧘‍♀️", "Cooking 🍳"]
+      "interests": ["Running 🏃‍♀️", "Pilates 🧘‍♀️", "Cooking 🍳", "reels..?"]
   }
 ```
 
