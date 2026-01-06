@@ -118,7 +118,7 @@ I strive to grow as a developer who **improves user experience through performan
 > - 10기 백엔드 파트원 & 부회장 (2024.09 ~ 2025.02)
 >
 > **SSS LAB**  
-> - LLM 기반 시각장애인용 주식 정보 챗봇 개발 (2024.09 ~ 2024.12)
+> - LLM과 RAG 기반의 시각장애인을 위한 (2024.09 ~ 2024.12)
 > - FAISS + Mistral + RAG 기번 챗봇 환경 구축
 > 
 
