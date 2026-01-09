@@ -22,18 +22,6 @@ I strive to grow as a developer who **improves user experience through performan
   }
 ```
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; background:#fafafa;">
-  <div style="display:flex; gap:12px; justify-content:center;">
-    <img src="https://github.com/user-attachments/assets/5f743822-68ef-41fb-85db-dd1be5801c46"
-         style="width:23%; height:240px; object-fit:cover; border-radius:8px;" />
-    <img src="https://github.com/user-attachments/assets/050f2270-39d6-4c66-b3ba-28ffaad24b6f"
-         style="width:23%; height:240px; object-fit:cover; border-radius:8px;" />
-    <img src="https://github.com/user-attachments/assets/59aca0fc-909d-4459-bf1f-fb1eb5d8ea77"
-         style="width:23%; height:240px; object-fit:cover; border-radius:8px;" />
-    <img src="https://github.com/user-attachments/assets/09bc34ff-4b06-42c5-8cdd-5a5df15d156e"
-         style="width:23%; height:240px; object-fit:cover; border-radius:8px;" />
-  </div>
-</div>
 
 <h2>⚡ Skills</h2>
 <h3>Platforms & Languages</h3>
@@ -185,16 +173,6 @@ I strive to grow as a developer who **improves user experience through performan
 - **Advanced Data Analytics Semi-Professional (ADSP)** (2025)
 
 <br>
-
-## 🎯 2025 Goals
-#### 루틴을 만들자
-- **Daily journaling** – 다이어리 작성 습관 만들기  
-- **Exercise 2–3 times a week** – 꾸준한 체력 관리  
-- **Morning stretching** – 스트레칭 
-- **Stay hydrated** – 물 많이 마시기  
-- **Algorithm practice** – 알고리즘 공부 제대로 하기
-- **10k**
-- 🇪🇸
 
 
 ---
