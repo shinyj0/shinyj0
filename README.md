@@ -77,25 +77,19 @@ I strive to grow as a developer who **improves user experience through performan
 > 
 > **CODEIT** (숙명여자대학교 IT공학과 학회)  
 > - 부회장 (2022.03 ~ 2024.02)  
-> - 동아리 운영 총괄
-> - 타 대학과 연합 해커톤 개최 추진
 > 
->
+
 > **ICCUS** 대학 연합 봉사 동아리  
 > - 운영진 (2022.03 ~ 2024.02)
 > - 총 87시간 봉사활동
 
 > **2023**
 >
->
-> **CODEIT**  
->  - 부회장 (2022.03 ~ 2024.02)
->
 > **UMC (University MakeUs Challenge)**  
-> - 5기 서버(node.js) 파트 (2023.09 ~ 2024.02)
+> - 5기 서버(node.js) 파트 수료 (2023.09 ~ 2024.02)
 >
 > **SOLUX** 
-> - 28기 백엔드 파트 (2023.03 ~ 2024.02)
+> - 28기 백엔드 파트 수료 (2023.03 ~ 2024.02)
 >
 > **날씨의 눈송**  
 > - 날씨에 따른 옷차림 추천 서비스 (2023.03 ~ 2024.08)
@@ -110,28 +104,25 @@ I strive to grow as a developer who **improves user experience through performan
 >
 >
 > **COTATO**  
-> - 9기 백엔드 파트 & 운영지원팀 (2024.03 ~ 2024.08)
+> - 9기 백엔드 파트 (2024.03 ~ 2025.02)
 >
 > **SYNCSPOT**  
 > - 중간지점 기반 모임 장소 추천 서비스 백엔드 개발 (2024.03 ~ 2024.12)
 > - **Stack**: Spring Boot, JPA, Redis, MySQL, AWS S3, AWS EC2, Docker
 > 
-> **COTATO**  
-> - 10기 백엔드 파트 & 부회장 (2024.09 ~ 2025.02)
->
+
 > **SSS LAB**  
 > - LLM과 RAG 기반의 시각장애인을 위한 (2024.09 ~ 2024.12)
 > - FAISS 벡터 검색과 Mistral LLM을 활용한 RAG 구조 설계 및 구현
 > 
 
 > **2025**
-> 
+
 > 
 > **UCSD Qualcomm AI Program 14기**  
 > - 캘리포니아 교통 데이터를 활용한 고속도로 교통량 예측 AI 연구  (2025.01 ~ 2025.02)  
 > - *Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data*  [Paper](https://arxiv.org/abs/2507.13112)
 >
-> **WAI Corp. 산학협력 (가시백연 구분 연구)**  (2025.03 ~ 2025.06)
 >
 > **LINGO**  
 > - 공증 문서 번역 플랫폼 졸업 프로젝트 (2025.03 ~ 2025.09)
