@@ -144,8 +144,21 @@ I strive to grow as a developer who **improves user experience through performan
 > **IT’s Time – ROOME**  
 > - 인테리어 플랫폼 **ROOME** 백엔드 개발 (2025.09 ~ )
 > - 셀프 인테리어를 계획하는 사람들이 자신의 취향을 발견하고 방 환경에 딱 맞는 원하는 인테리어를 얻기까지를 서포트해주는 웹 플랫폼
-> - **Stack**: Spring Boot, JPA, MySQL, Redis,AWS S3, AWS EC2, AWS ElasticCache, Docker, Nginx, OpenAI
-
+> - **Stack**: Spring Boot, JPA, MySQL, Redis,AWS S3, AWS EC2, AWS ElastiCache, Docker, Nginx, OpenAI
+>
+> 
+> **2026**
+>
+> **학습용 모의투자 서비스 – SOLMate**  
+> - 학습용 모의투자 서비스 **SOLMate** 백엔드 및 인프라 개발  
+> - 실시간 시세, 호가 데이터, 모의투자, 매매일지를 통해 사용자가 투자 판단 과정을 학습할 수 있도록 돕는 웹 서비스  
+> - **Stack**: Spring Boot, JPA, MySQL, Redis, WebSocket, AWS EC2, Docker, Nginx, Prometheus, Grafana
+>
+> **자녀 미래 자산 구축 서비스 - 아이든든**  
+> - 자녀 미래 자산 구축 서비스 **아이든든** 백엔드 및 인프라 개발  
+> - 목표 자금 설정, ETF 투자, 증여 관리, 아동수당 연결을 통해 부모가 자녀의 장기 자산 형성을 관리할 수 있도록 돕는 증권 중심 금융 서비스  
+> - **Stack**: Spring Boot, JPA, MySQL, Redis, AWS EC2, AWS RDS, Docker, Nginx, GitHub Actions
+>
 
 
 <br>
@@ -155,7 +168,9 @@ I strive to grow as a developer who **improves user experience through performan
 - Yonsei Univ. x Sookmyung Univ. AWS ABC Hackathon – Excellence Award (2024.03.10) <br>
 - 4th SMUPC Programming Contest – Gold Prize (2024.05.18)<br>
 - 1st SWITCH (SW/AI Startup Competition, Sookmyung Univ.) – Gold Prize (2024.08)<br>
-- UCSD Qualcomm AI Program Hackathon – 2nd Place (2025.02.16)
+- UCSD Qualcomm AI Program Hackathon – 2nd Place (2025.02.16)<br>
+- ndustry-Academic Cooperation Project -Excellence Award (2025.12.23)<br>
+- Shinhan Investment & Securities Pro Digital Academy – Grand Prize (2026.07.02)
 
 <br>
 
