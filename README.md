@@ -144,7 +144,7 @@ I strive to grow as a developer who **improves user experience through performan
 > - **Stack**: Python, FAISS, nomic embedding,LLM
 >
 > **IT’s Time – ROOME**  
-> - 인테리어 플랫폼 **ROOME** 백엔드 개발 (2025.09 ~ )
+> - 인테리어 플랫폼 **ROOME** 백엔드 개발 (2025.09 ~ 2026.01 )
 > - 셀프 인테리어를 계획하는 사람들이 자신의 취향을 발견하고 방 환경에 딱 맞는 원하는 인테리어를 얻기까지를 서포트해주는 웹 플랫폼
 > - **Stack**: Spring Boot, JPA, MySQL, Redis,AWS S3, AWS EC2, AWS ElastiCache, Docker, Nginx, OpenAI
 >
